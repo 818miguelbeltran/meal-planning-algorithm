@@ -27,7 +27,28 @@ This project demonstrates **algorithmic thinking**:
 This project was created to visualize the logic behind a Meal Planning Algorithm that uses system thinking and loops to plan a full week of meals. The goal is to demonstrate how decision-making (like budget, time, and dietary restrictions) can be structured logically and later implemented in code.
 
 ---
-## 🧩 Next Steps
-- [ ] Add `main.py` to automate the weekly planning logic
-- [ ] Create a budget-tracking function
-- [ ] Export results to CSV or Google Sheets
+## ⚙️ How It Works
+
+The algorithm follows a weekly loop (Day 1–7) that:
+
+Collects user inputs (budget, dietary restrictions, and preferences)
+
+Checks conditions (busy day, time available, budget remaining)
+
+Selects appropriate meals (quick or regular)
+
+Updates the budget and adds the meal to the weekly list
+
+Outputs a final shopping list and weekly summary
+
+This structure can later be translated directly into code (e.g., Python) using loops (for day in range(1,8)), functions (update_budget()), and conditionals (if busy:).
+
+---
+## 🔄 Future Directions
+
+Automate the loop in Python (main.py)
+
+Integrate a budget-feedback mechanism
+
+Extend the framework toward modeling resource allocation or decision-making inequality
+
