@@ -52,3 +52,10 @@ Integrate a budget-feedback mechanism
 
 Extend the framework toward modeling resource allocation or decision-making inequality
 
+---
+
+🧩 **Research Context**
+
+This project serves as a prototype for modeling how structural constraints shape individual decision-making — a key theme in my sociological research on systems and inequality.
+
+
