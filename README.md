@@ -5,7 +5,7 @@ This repository visualizes and explains my **Meal Planning Algorithm**, which us
 ---
 
 ## 📊 Flowchart
-![Meal Planning Algorithm Flowchart](./Miguel_Beltran_W0D4_Algorithm_Design_&_Flowcharts_(1).jpg)
+![Meal Planning Algorithm Flowchart](./Miguel_Beltran_W0D4_%20Algorithm%20Design%20&%20Flowcharts.jpg)
 
 ### 🔁 Weekly Loop (Day 1 to 7)
 - Collect user inputs (budget, restrictions, preferences)
