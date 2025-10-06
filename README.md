@@ -22,7 +22,7 @@ This project demonstrates **algorithmic thinking**:
 - Building foundations for **AI or app-based meal planners**
 
 ---
-🧠 About This Project
+## 🧠 About This Project
 
 This project was created to visualize the logic behind a Meal Planning Algorithm that uses system thinking and loops to plan a full week of meals. The goal is to demonstrate how decision-making (like budget, time, and dietary restrictions) can be structured logically and later implemented in code.
 
