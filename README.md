@@ -56,6 +56,6 @@ Extend the framework toward modeling resource allocation or decision-making ineq
 
 ## 🔎 Research Context
 
-This project serves as a prototype for modeling how structural constraints shape individual decision-making — a key theme in my sociological research on systems and inequality.
+This project serves as a prototype for modeling how algorithmic systems shape individual decision-making, a key theme in my sociological research on surveillance, technology, and social control.
 
 
